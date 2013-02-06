@@ -1,0 +1,2 @@
+git config --global user.name "samuel.oliveira"
+git config --global user.email samuel.oliveira@locaweb.com.br
